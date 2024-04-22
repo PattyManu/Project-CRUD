@@ -1,0 +1,157 @@
+.container-home {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    gap: 5px;
+
+    width: 100vw;
+    min-height: 100vh;
+}
+
+.info {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    gap: 5px;
+
+    width: 50%;
+    height: 80px;
+}
+
+.info strong,
+.info span {
+    text-align: left;
+    width: 100%;
+}
+
+.pincel {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 3px;
+
+    width: 50%;
+
+}
+
+.form-one {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+    width: 50%;
+    height: 100%;
+}
+
+
+.contato span {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: column;
+
+    width: 30vh;
+    height: 30vw;
+
+}
+
+.info-user {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-direction: column;
+
+    width: 50%;
+    height: 100%;
+}
+
+.photo-user {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 5px;
+    width: 50%;
+    height: 100%;
+}
+
+.esquerda {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 10px;
+    height: 150px;
+    width: 35%;
+
+    background-color: lightgray;
+}
+
+.direita {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-items: center;
+
+    padding: 10px;
+
+    height: 100%;
+    width: 65%;
+}
+
+.texto span {
+    text-align: left;
+    font: 400;
+
+}
+
+.botao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 100%;
+}
+
+.segunda-parteForm {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+
+    gap: 2px;
+
+}
+
+.terceira-parteForm {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+
+}
+
+.quarta-parteForm {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+
+
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    bottom: 0;
+
+    font-weight: 400;
+
+    width: 50%;
+    height: 40px;
+}

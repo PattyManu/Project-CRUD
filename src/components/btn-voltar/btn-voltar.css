@@ -1,0 +1,13 @@
+.btn-voltar {
+    padding: 5px;
+
+    all: unset;
+    width: 120px;
+    height: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #368BCB;
+
+    cursor: pointer;
+}

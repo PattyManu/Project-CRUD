@@ -1,0 +1,16 @@
+.btn-proximo {
+    all: unset;
+    width: 120px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #368BCB;
+    border-radius: 25px;
+
+    cursor: pointer;
+
+    text-transform: uppercase;
+    font-weight: 300;
+    color: white;
+}
